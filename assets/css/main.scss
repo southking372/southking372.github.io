@@ -37,3 +37,9 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Custom academic profile tweaks */
+.author__urls li {
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
