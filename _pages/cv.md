@@ -7,6 +7,12 @@ redirect_from:
   - /resume
 ---
 
+## Haonan Zhang (张皓南)
+
+Ph.D. Student, The Hong Kong University of Science and Technology (Guangzhou)
+
+[Google Scholar](https://scholar.google.com/citations?user=8HUEmMkAAAAJ&hl=en) · [GitHub](https://github.com/southking372)
+
 ## Education
 
 - **Ph.D. Student**, The Hong Kong University of Science and Technology (Guangzhou)
@@ -15,16 +21,15 @@ redirect_from:
 
 ## Research Interests
 
-To be updated.
+- Physiological sensing
+- Wearable and non-invasive health monitoring
+- Physiological signal processing and machine learning
+- Biomedical artificial intelligence
 
 ## Publications
 
-Publication information will be added here.
-
-## Projects
-
-Selected projects will be added here.
-
-## Contact
-
-- GitHub: [southking372](https://github.com/southking372)
+{% for post in site.publications reversed %}
+- **{{ post.title }}**  
+  {{ post.citation }}  
+  {% if post.paperurl %}[Paper]({{ post.paperurl }}){% endif %}
+{% endfor %}

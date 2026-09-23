@@ -3,7 +3,7 @@ site_theme: "default"
 title: "Haonan Zhang"
 title_separator: "-"
 name: "Haonan Zhang"
-description: "Academic homepage of Haonan Zhang"
+description: "Academic homepage of Haonan Zhang — physiological sensing, wearable health, and biomedical AI"
 url: "https://southking372.github.io"
 baseurl: ""
 repository: "southking372/southking372.github.io"
@@ -12,14 +12,14 @@ author:
   avatar: "https://github.com/southking372.png"
   name: "Haonan Zhang"
   pronouns:
-  bio: "Ph.D. Student"
+  bio: "Ph.D. Student | Physiological Sensing"
   location: "Guangzhou, China"
   employer: "The Hong Kong University of Science and Technology (Guangzhou)"
   uri:
   email:
   academia:
   arxiv:
-  googlescholar:
+  googlescholar: "https://scholar.google.com/citations?user=8HUEmMkAAAAJ&hl=en"
   inspire-hep:
   impactstory:
   orcid:
@@ -73,28 +73,23 @@ words_per_minute: 160
 future: true
 read_more: "disabled"
 talkmap_link: false
-
 comments:
   provider:
-
 atom_feed:
   hide: false
   path:
-
 social:
   type: Person
   name: "Haonan Zhang"
   links:
     - "https://github.com/southking372"
-
+    - "https://scholar.google.com/citations?user=8HUEmMkAAAAJ&hl=en"
 analytics:
   provider: false
-
 include:
   - .htaccess
   - _pages
   - files
-
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -122,11 +117,9 @@ exclude:
   - README
   - tmp
   - vendor
-
 keep_files:
   - .git
   - .svn
-
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
@@ -134,7 +127,6 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 kramdown:
   input: GFM
   hard_wrap: false
@@ -144,7 +136,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
 collections:
   teaching:
     output: true
@@ -158,7 +149,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
 defaults:
   - scope:
       path: ""
@@ -207,14 +197,11 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
 sass:
   sass_dir: _sass
   style: compressed
-
 permalink: /:categories/:title/
 timezone: "Asia/Hong_Kong"
-
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -222,7 +209,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-
 whitelist:
   - jekyll-feed
   - jekyll-gist
@@ -230,15 +216,12 @@ whitelist:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-
 category_archive:
   type: liquid
   path: /categories/
-
 tag_archive:
   type: liquid
   path: /tags/
-
 compress_html:
   clippings: all
   ignore:
