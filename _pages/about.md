@@ -32,9 +32,9 @@ Before my Ph.D., my research covered **PPG-based cuffless blood pressure estimat
 
 ## Education
 
-- **Ph.D. Student**, The Hong Kong University of Science and Technology (Guangzhou)
-- **M.S. in Biomedical Engineering**, Beihang University
-- **B.S. in Biomedical Engineering**, Beihang University
+- **Ph.D. Student**, The Hong Kong University of Science and Technology (Guangzhou), **2026–Present**
+- **M.S. in Biomedical Engineering**, Beihang University, **2023–2026**
+- **B.S. in Biomedical Engineering**, Beihang University, **2019–2023**
 
 ## Links
 
