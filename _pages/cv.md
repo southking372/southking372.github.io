@@ -21,10 +21,9 @@ Ph.D. Student, The Hong Kong University of Science and Technology (Guangzhou)
 
 ## Research Interests
 
-- Physiological sensing
-- Wearable and non-invasive health monitoring
-- Physiological signal processing and machine learning
-- Biomedical artificial intelligence
+- Wearable & Physiological Sensing
+- Physiological Signal Processing and Machine Learning
+- Biomedical Artificial Intelligence
 
 ## Publications
 
