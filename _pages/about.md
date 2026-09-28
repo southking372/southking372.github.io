@@ -15,10 +15,9 @@ Before my Ph.D., my research covered **PPG-based cuffless blood pressure estimat
 
 ## Research Interests
 
-- **Physiological Sensing** — wearable and non-invasive sensing for continuous health monitoring
-- **Physiological Signal Intelligence** — robust representation learning and inference from biosignals
-- **Wearable Health Technologies** — sensing systems that connect devices, signals, and health information
-- **Biomedical AI** — machine learning for medical signals and images
+- **Wearable & Physiological Sensing**
+- **Physiological Signal Processing and Machine Learning**
+- **Biomedical Artificial Intelligence**
 
 ## Selected Publications
 
