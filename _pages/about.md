@@ -7,17 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-## About Me / 个人简介
+## About Me
 
-**English.** I am **Haonan Zhang (张皓南)**, a Ph.D. student at **The Hong Kong University of Science and Technology (Guangzhou)**. I received both my B.S. and M.S. degrees in **Biomedical Engineering** from **Beihang University**. My research focuses on **wearable and physiological sensing**, **physiological signal processing and machine learning**, and **biomedical artificial intelligence**. My previous work includes PPG-based cuffless blood pressure estimation, flexible wearable sensing, and medical image analysis. During my Ph.D., I focus on continuous, non-invasive, and reliable physiological sensing in real-world settings, with the goal of integrating sensors, biosignals, and intelligent models for robust and personalized health monitoring.
+I am **Haonan Zhang**, a Ph.D. student at **The Hong Kong University of Science and Technology (Guangzhou)**. I received both my B.S. and M.S. degrees in **Biomedical Engineering** from **Beihang University**. My current research focuses on **wearable and physiological sensing**, **physiological signal processing and machine learning**, and **biomedical artificial intelligence**. During my Ph.D., I focus on continuous, non-invasive, and reliable physiological sensing in real-world settings, with the goal of integrating sensors, biosignals, and intelligent models for robust and personalized health monitoring.
 
-**中文。** 我是**张皓南（Haonan Zhang）**，现为**香港科技大学（广州）**博士研究生，本科及硕士均就读于**北京航空航天大学生物医学工程专业**。我的研究主要围绕**可穿戴与生理感知**、**生理信号处理与机器学习**以及**生物医学人工智能**展开。前期工作包括基于 PPG 的无袖带血压估计、可穿戴柔性传感及医学影像智能分析。博士阶段重点关注真实场景下连续、无创和可靠的生理感知，致力于融合传感器、生理信号与智能模型，实现面向个体健康监测的稳健感知与智能分析。
+## Research Interests
 
-## Research Interests / 研究方向
-
-- **Wearable & Physiological Sensing / 可穿戴与生理感知**
-- **Physiological Signal Processing and Machine Learning / 生理信号处理与机器学习**
-- **Biomedical Artificial Intelligence / 生物医学人工智能**
+- **Wearable & Physiological Sensing**
+- **Physiological Signal Processing and Machine Learning**
+- **Biomedical Artificial Intelligence**
 
 ## Selected Publications
 
