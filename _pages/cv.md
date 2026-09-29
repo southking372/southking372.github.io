@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-## Haonan Zhang (张皓南)
+## Haonan Zhang
 
 Ph.D. Student, The Hong Kong University of Science and Technology (Guangzhou)
 
@@ -19,11 +19,11 @@ Ph.D. Student, The Hong Kong University of Science and Technology (Guangzhou)
 - **M.S. in Biomedical Engineering**, Beihang University, **2023–2026**
 - **B.S. in Biomedical Engineering**, Beihang University, **2019–2023**
 
-## Research Interests / 研究方向
+## Research Interests
 
-- **Wearable & Physiological Sensing / 可穿戴与生理感知**
-- **Physiological Signal Processing and Machine Learning / 生理信号处理与机器学习**
-- **Biomedical Artificial Intelligence / 生物医学人工智能**
+- **Wearable & Physiological Sensing**
+- **Physiological Signal Processing and Machine Learning**
+- **Biomedical Artificial Intelligence**
 
 ## Publications
 
